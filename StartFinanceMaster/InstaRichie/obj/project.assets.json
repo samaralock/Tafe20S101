@@ -16470,28 +16470,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luke\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Samara\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luke\\Downloads\\ICTPRG502 - ASDS - StartFinanceMaster\\ICTPRG502 - ASDS - StartFinanceMaster\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+      "projectUniqueName": "C:\\Repos\\Tafe20S101a\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
       "projectName": "Start Finance",
-      "projectPath": "C:\\Users\\Luke\\Downloads\\ICTPRG502 - ASDS - StartFinanceMaster\\ICTPRG502 - ASDS - StartFinanceMaster\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
-      "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luke\\Downloads\\ICTPRG502 - ASDS - StartFinanceMaster\\ICTPRG502 - ASDS - StartFinanceMaster\\StartFinanceMaster\\InstaRichie\\obj\\",
+      "projectPath": "C:\\Repos\\Tafe20S101a\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+      "packagesPath": "C:\\Users\\Samara\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\Tafe20S101a\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Samara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "uap10.0.18362"
