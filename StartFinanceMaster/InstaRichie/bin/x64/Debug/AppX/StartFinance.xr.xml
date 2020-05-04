@@ -5,6 +5,11 @@
     <RootPropertyPathName Name="InitialAmount" />
     <RootPropertyPathName Name="AccountName" />
     <RootPropertyPathName Name="ID" />
+    <RootPropertyPathName Name="EndTime" />
+    <RootPropertyPathName Name="StartTime" />
+    <RootPropertyPathName Name="EventDate" />
+    <RootPropertyPathName Name="Location" />
+    <RootPropertyPathName Name="EventName" />
     <RootPropertyPathName Name="AssetValue" />
     <RootPropertyPathName Name="AssetName" />
     <RootPropertyPathName Name="DebtAmount" />
@@ -198,11 +203,11 @@
       <RootProperty Name="PlaceholderText" />
       <RootProperty Name="TextWrapping" />
       <RootProperty Name="InputScope" />
+      <RootProperty Name="Margin" />
       <RootProperty Name="MinWidth" />
       <RootProperty Name="MinHeight" />
       <RootProperty Name="Text" />
       <RootProperty Name="Width" />
-      <RootProperty Name="Margin" />
       <RootProperty Name="HorizontalAlignment" />
       <RootEvent Name="Loaded" />
       <RootEvent Name="TextChanged" />
@@ -231,6 +236,23 @@
       <RootProperty Name="FallbackValue" />
     </RootType>
     <RootType FullName="StartFinance.Views.AccountsPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.DatePicker">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Command" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TimePicker">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="StartFinance.Views.AppointmentPage" />
     <RootType FullName="StartFinance.Views.AssetsPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
       <RootProperty Name="Content" />
@@ -287,12 +309,6 @@
     <RootType FullName="StartFinance.Views.DebtPage" />
     <RootType FullName="StartFinance.ViewModels.DetailPageViewModel" />
     <RootType FullName="StartFinance.Views.DetailPage" />
-    <RootType FullName="Windows.UI.Xaml.Controls.Button">
-      <RootProperty Name="Content" />
-      <RootProperty Name="Margin" />
-      <RootProperty Name="Command" />
-      <RootEvent Name="Click" />
-    </RootType>
     <RootType FullName="Microsoft.Xaml.Interactivity.Interaction">
       <RootMethod Name="GetBehaviors" />
       <RootMethod Name="SetBehaviors" />
