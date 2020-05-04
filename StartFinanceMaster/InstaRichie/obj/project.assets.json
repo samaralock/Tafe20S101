@@ -16476,11 +16476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Tafe20S101a\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+      "projectUniqueName": "C:\\Repos\\5TSDS101C\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
       "projectName": "Start Finance",
-      "projectPath": "C:\\Repos\\Tafe20S101a\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+      "projectPath": "C:\\Repos\\5TSDS101C\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
       "packagesPath": "C:\\Users\\Samara\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Tafe20S101a\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\obj\\",
+      "outputPath": "C:\\Repos\\5TSDS101C\\Tafe20S101\\StartFinanceMaster\\InstaRichie\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

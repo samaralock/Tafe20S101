@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>55315fcf-abdd-4acd-aa68-afdab1b5cfbf</PackageIdentityName>
     <PackageIdentityPublisher>CN=Kwok Lau</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>4AE81BAC025BD641A2FF434436B815187B8234F1DE89437D82FC34EB5B738152</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>32458featapps.InstaRichie_3.1.20.0_x64__fsw70h2yhp294</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>32458featapps.InstaRichie_fsw70h2yhp294!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>3.1.20.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-03T05:53:58.483</Modified>
+      <Modified>2020-05-04T02:42:41.590</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\StartFinance.exe">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\StartFinance.exe">
       <PackagePath>entrypoint\StartFinance.exe</PackagePath>
-      <Modified>2020-05-03T05:53:55.283</Modified>
+      <Modified>2020-05-04T02:42:37.930</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Samara\.nuget\packages\crosspiecharts.uwp\1.0.2\lib\uap\CrossPieCharts.ClassLibrary.dll">
       <PackagePath>CrossPieCharts.ClassLibrary.dll</PackagePath>
@@ -494,115 +494,115 @@
       <PackagePath>Template10Library\Properties\Template10Library.rd.xml</PackagePath>
       <Modified>2016-05-19T09:17:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Help.htm">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Help.htm">
       <PackagePath>Help.htm</PackagePath>
-      <Modified>2020-05-03T05:48:49.823</Modified>
+      <Modified>2020-05-04T02:37:05.188</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-05-03T05:48:49.826</Modified>
+      <Modified>2020-05-04T02:37:05.201</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2020-05-03T05:48:49.818</Modified>
+      <Modified>2020-05-04T02:37:05.155</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-03T05:48:49.819</Modified>
+      <Modified>2020-05-04T02:37:05.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-03T05:48:49.819</Modified>
+      <Modified>2020-05-04T02:37:05.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-03T05:48:49.820</Modified>
+      <Modified>2020-05-04T02:37:05.165</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-03T05:48:49.820</Modified>
+      <Modified>2020-05-04T02:37:05.172</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-03T05:48:49.820</Modified>
+      <Modified>2020-05-04T02:37:05.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-03T05:48:49.821</Modified>
+      <Modified>2020-05-04T02:37:05.183</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\StartFinance.xr.xml">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\StartFinance.xr.xml">
       <PackagePath>StartFinance.xr.xml</PackagePath>
-      <Modified>2020-05-03T05:53:54.995</Modified>
+      <Modified>2020-05-04T02:37:47.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.072</Modified>
+      <Modified>2020-05-04T02:42:37.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Styles\Custom.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Styles\Custom.xbf">
       <PackagePath>Styles\Custom.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.072</Modified>
+      <Modified>2020-05-04T02:42:37.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\AccountsPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\AccountsPage.xbf">
       <PackagePath>Views\AccountsPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.072</Modified>
+      <Modified>2020-05-04T02:42:37.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\AssetsPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\AssetsPage.xbf">
       <PackagePath>Views\AssetsPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.073</Modified>
+      <Modified>2020-05-04T02:42:37.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Busy.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Busy.xbf">
       <PackagePath>Views\Busy.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.073</Modified>
+      <Modified>2020-05-04T02:42:37.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\ContactDetails.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\ContactDetails.xbf">
       <PackagePath>Views\ContactDetails.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.040</Modified>
+      <Modified>2020-05-04T02:42:37.678</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DashBoardPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DashBoardPage.xbf">
       <PackagePath>Views\DashBoardPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.045</Modified>
+      <Modified>2020-05-04T02:42:37.683</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DebtPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DebtPage.xbf">
       <PackagePath>Views\DebtPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.049</Modified>
+      <Modified>2020-05-04T02:42:37.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DetailPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\DetailPage.xbf">
       <PackagePath>Views\DetailPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.073</Modified>
+      <Modified>2020-05-04T02:42:37.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.054</Modified>
+      <Modified>2020-05-04T02:42:37.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\SettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\SettingsPage.xbf">
       <PackagePath>Views\SettingsPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.059</Modified>
+      <Modified>2020-05-04T02:42:37.696</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Shell.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Shell.xbf">
       <PackagePath>Views\Shell.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.073</Modified>
+      <Modified>2020-05-04T02:42:37.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Splash.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\Splash.xbf">
       <PackagePath>Views\Splash.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.073</Modified>
+      <Modified>2020-05-04T02:42:37.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\TransactionListPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\TransactionListPage.xbf">
       <PackagePath>Views\TransactionListPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.073</Modified>
+      <Modified>2020-05-04T02:42:37.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\TransactionPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\TransactionPage.xbf">
       <PackagePath>Views\TransactionPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.068</Modified>
+      <Modified>2020-05-04T02:42:37.706</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\WishListPage.xbf">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Views\WishListPage.xbf">
       <PackagePath>Views\WishListPage.xbf</PackagePath>
-      <Modified>2020-05-03T05:53:55.074</Modified>
+      <Modified>2020-05-04T02:42:37.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -612,13 +612,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T07:03:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-05-03T05:53:57.134</Modified>
+      <Modified>2020-05-04T02:42:40.197</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Repos\Tafe20S101a\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\StartFinance.exe">
+    <AppxPackagedFile Include="C:\Repos\5TSDS101C\Tafe20S101\StartFinanceMaster\InstaRichie\bin\x64\Debug\Core\StartFinance.exe">
       <PackagePath>StartFinance.exe</PackagePath>
-      <Modified>2020-05-03T05:53:58.467</Modified>
+      <Modified>2020-05-04T02:42:41.574</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
